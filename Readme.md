@@ -1,0 +1,1 @@
+este é um programa em c# para ler os valores da largura e altura de um rêtangulo, também mostrar na tela o valor de sua área, perímetro e diagonal
